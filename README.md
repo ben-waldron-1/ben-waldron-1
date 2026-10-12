@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Python, Scientific ML, and occasionally some biology.
+
+I like [tinygrad](https://github.com/tinygrad/tinygrad) and [was awarded a bounty for a contribution](https://github.com/tinygrad/tinygrad/pull/11771).
+
 <!--
 **ben-waldron-1/ben-waldron-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
